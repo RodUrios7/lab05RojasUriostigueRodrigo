@@ -33,7 +33,7 @@ body {
 .header {
     text-align: center;
     padding-bottom: 30px;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #2fc52f;
     margin-bottom: 30px;
 }
 
@@ -124,7 +124,7 @@ body {
 }
 
 .skill {
-    background-color: #3498db;
+    background-color: #861440;
     color: white;
     padding: 8px 15px;
     border-radius: 20px;
